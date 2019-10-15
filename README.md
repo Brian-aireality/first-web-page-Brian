@@ -21,3 +21,15 @@ _{images may lot load up properly, will fix}_
 ## Support and contact details
 
 _{briandme97007@gmail.com}_
+
+## Technologies Used
+
+_{ I used HTML, atom, git}_
+
+### License
+
+_{MIT}_
+
+## Copyright
+
+_{(c) 2019, Brian Miller} 
